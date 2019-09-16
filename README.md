@@ -1,4 +1,4 @@
-# AdisyonProgram
+# Adisyon Programı
 
 
 Python PyQt5 ve QtDesigner kullanılarak yapılmış örnek bir program.  
