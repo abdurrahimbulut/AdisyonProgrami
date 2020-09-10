@@ -1,9 +1,11 @@
 # Adisyon Programı
 
 
-Python PyQt5 ve QtDesigner kullanılarak yapılmış örnek bir program.  
+Python PyQt5 & QtDesigner kullanılarak yapılmış örnek bir program.  
 
-Python PyQt5 ve QtDesigner basic exaples  ![Screenshot](https://i.ibb.co/YhL5rPN/adisyon-Programi.png) 
+Python PyQt5 & QtDesigner basic exaples
+
+![Screenshot](https://i.ibb.co/YhL5rPN/adisyon-Programi.png) 
 
 Abdurrahim Bulut 
 
